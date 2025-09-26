@@ -65,3 +65,5 @@ This project builds a deep learning pipeline to classify chest X-ray images into
 1. Install dependencies:
    ```bash
    pip install tensorflow matplotlib scikit-learn
+### Kaggle 
+www.kaggle.com/code/peacefulcat/pneumonia-model
